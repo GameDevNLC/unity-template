@@ -7,3 +7,6 @@ How to Use :
 
 - Configure your repo
 - Clone to your local
+
+### Follow this tutorial for changing product names
+https://blog.tarynmcmillan.com/how-to-rename-your-unity-project
